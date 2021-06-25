@@ -1,0 +1,6 @@
+apiVersion: v1
+appVersion: 0.1.7
+description: Api Teste Basic
+name: api-teste
+version: 0.2.0
+icon: https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png

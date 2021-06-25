@@ -1,0 +1,10 @@
+image:
+  tag: 0.0.2
+
+replicas: 2
+
+container:
+  port: 3010
+
+service:
+  port: 30090
